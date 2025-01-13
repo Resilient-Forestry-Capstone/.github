@@ -23,12 +23,14 @@ Resilient Forestry aims to streamline forest inventory and ecological analysis b
 ### 🔧 Technologies and Tools
 
 <h6>Programming and Development</h6>
+
   * Python: Automating workflows and implementing testing frameworks.
   * WebODM: Processing UAV imagery into geospatial outputs (point clouds, orthophotos).
   * QGIS: Geospatial analysis and visualization of generated models.
   * GitHub: Version control and collaborative development.
     
 <h6>Hardware and Data Collection</h6>
+
   * DJI Mavic 3: UAV for aerial imagery acquisition.
   * Ground Control Points (GCPs): Used for georeferencing models.
   * Field equipment: Measuring tree heights, diameters, and gap delineations for ground truth validation.
