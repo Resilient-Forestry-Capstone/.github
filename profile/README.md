@@ -28,6 +28,7 @@ Resilient Forestry aims to streamline forest inventory and ecological analysis b
   * WebODM: Processing UAV imagery into geospatial outputs (point clouds, orthophotos).
   * QGIS: Geospatial analysis and visualization of generated models.
   * GitHub: Version control and collaborative development.
+
     
 <h6>Hardware and Data Collection</h6>
 
@@ -64,19 +65,26 @@ plaintext
 ### 🛠️ Key Features and Workflow
 
 <h6>Automated Photogrammetry Pipeline</h6>
+
   * Preprocess UAV-acquired imagery.
   * Generate 3D models, orthophotos, and point clouds.
   * Automate parameter tuning based on environmental conditions (e.g., fog, dense forest).
+
   
 <h6>Accuracy Analysis</h6>
+
   * Validate UAV models against ground truth measurements.
   * Assess discrepancies in canopy height and gap delineation using CHM (Canopy Height Model).
+
   
 <h6>Scalability and Performance</h6>
+
   * Optimize processing times for large datasets (>2000 images).
   * Integrate benchmarking for pipeline performance metrics.
 
+
 <h6>Interdisciplinary Collaboration</h6>
+
   * Combine ecological expertise and computational tools for seamless workflow.
 
 
@@ -86,14 +94,19 @@ plaintext
 ### 📅 Development Timeline
 
 <h6>Quarter 1</h6>
+
   * Establish pipeline architecture.
   * Begin testing UAV flight parameters and automating preprocessing.
+
   
 <h6>Quarter 2</h6>
+
   * Validate 3D models using ground truth data.
   * Develop and integrate benchmarking and reporting features.
+
   
 <h6>Quarter 3</h6>
+
   * Finalize automation for end-to-end workflows.
   * Deliver project results and deploy for field use.
 
