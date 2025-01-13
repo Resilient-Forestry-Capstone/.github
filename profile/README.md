@@ -7,7 +7,8 @@ Welcome to the Resilient Forestry Project, an interdisciplinary initiative combi
 ----------------------------------------------------------------------------------------------------------------
 
 
-🌟 Project Overview
+### 🌟 Project Overview
+
 Resilient Forestry aims to streamline forest inventory and ecological analysis by automating the transformation of UAV (Unmanned Aerial Vehicle) aerial imagery into actionable geospatial data. Our system leverages digital photogrammetry, 3D modeling, and interdisciplinary collaboration to optimize environmental stewardship. Key deliverables include:
 
 * Accurate 3D canopy and terrain models.
