@@ -117,18 +117,19 @@ plaintext
 ### 📌 How to Get Started
 Clone the repository:
 
-bash
-Copy code
+``` bash
 git clone https://github.com/ResilientForestry/ProjectRepo.git
 cd ProjectRepo
+```
+
 Install dependencies: Follow the instructions in the docs/installation.md file.
+
 
 Run the pipeline:
 
-bash
-Copy code
+``` bash
 python src/main.py --input data/raw --output data/processed
-
+```
 
 ----------------------------------------------------------------------------------------------------------------
 
