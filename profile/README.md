@@ -133,6 +133,7 @@ python src/main.py --input data/raw --output data/processed
 
 ----------------------------------------------------------------------------------------------------------------
 
-📞 Contact
+### 📞 Contact
+
 For inquiries, collaboration, or access to the repository, please submit a application.
 We’re excited to work together on advancing environmental stewardship with cutting-edge technology! 🌳🌍
