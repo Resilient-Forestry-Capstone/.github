@@ -20,7 +20,7 @@ Resilient Forestry aims to streamline forest inventory and ecological analysis b
 ----------------------------------------------------------------------------------------------------------------
 
 
-🔧 Technologies and Tools
+### 🔧 Technologies and Tools
 <h6>Programming and Development</h6>
   * Python: Automating workflows and implementing testing frameworks.
   * WebODM: Processing UAV imagery into geospatial outputs (point clouds, orthophotos).
@@ -35,7 +35,7 @@ Resilient Forestry aims to streamline forest inventory and ecological analysis b
 ----------------------------------------------------------------------------------------------------------------
 
 
-📂 Directory Structure
+### 📂 Directory Structure
 
 ```
 plaintext
@@ -57,7 +57,8 @@ plaintext
 ----------------------------------------------------------------------------------------------------------------
 
 
-🛠️ Key Features and Workflow
+### 🛠️ Key Features and Workflow
+
 <h6>Automated Photogrammetry Pipeline</h6>
   * Preprocess UAV-acquired imagery.
   * Generate 3D models, orthophotos, and point clouds.
@@ -78,7 +79,8 @@ plaintext
 ----------------------------------------------------------------------------------------------------------------
 
 
-📅 Development Timeline
+### 📅 Development Timeline
+
 <h6>Quarter 1</h6>
   * Establish pipeline architecture.
   * Begin testing UAV flight parameters and automating preprocessing.
@@ -95,7 +97,7 @@ plaintext
 ----------------------------------------------------------------------------------------------------------------
 
 
-📌 How to Get Started
+### 📌 How to Get Started
 Clone the repository:
 
 bash
