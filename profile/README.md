@@ -42,8 +42,7 @@ Resilient Forestry aims to streamline forest inventory and ecological analysis b
 
 ### 📂 Directory Structure
 
-```
-plaintext
+``` plaintext
 .
 ├── README.md                # Project overview and team introduction
 ├── src/                     # Source code for automated workflows
